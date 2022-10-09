@@ -10,7 +10,7 @@ import (
 	"math/big"
 )
 
-var _difficulty = 12
+var _difficulty = 16
 
 type ProofOfWork struct {
 	Block  *Block
