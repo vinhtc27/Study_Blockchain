@@ -1,6 +1,6 @@
 module blockchain
 
-go 1.18
+go 1.19
 
 require github.com/dgraph-io/badger v1.6.2
 
@@ -12,5 +12,5 @@ require (
 	github.com/golang/protobuf v1.3.1 // indirect
 	github.com/pkg/errors v0.8.1 // indirect
 	golang.org/x/net v0.0.0-20190620200207-3b0461eec859 // indirect
-	golang.org/x/sys v0.0.0-20190626221950-04f50cda93cb // indirect
+	golang.org/x/sys v0.0.0-20221006211917-84dc82d7e875 // indirect
 )
